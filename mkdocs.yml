@@ -1,0 +1,17 @@
+# Project Information
+site_name: Homeworks
+
+# Contents
+nav:
+  - 零基础001-100: 
+    - ‘001: 001.md
+    - ‘002: 002.md
+    - ‘004: 004.md
+    - ‘100: 100.md
+  - 101: 101.md
+  - 102: 102.md
+  - 103: 103.md
+  - 104: 104.md
+
+# Themes(bootstrap/readthedocs/mkdocs)
+theme: yeti
