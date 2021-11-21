@@ -74,3 +74,10 @@ pip install mkdocs-bootswatch
 - （正确）修复了001.md的一个 typo
 - （错误）添加了新内容
 - （正确）为001阶段Unit01添加了常见问题
+
+### 参考资料与拓展阅读
+1. [如何参与-IO Wiki](https://oi-wiki.org/intro/htc/)
+2. [Mkdocs 官方中文文档](https://mkdocs.zimoapps.com/)
+
+Web-based editor - GitHub Codespaces - GitHub Docs ↩
+
